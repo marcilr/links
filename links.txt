@@ -1,0 +1,127 @@
+links.txt
+Created Wednesday May 20, 2020
+by Raymond E. Marcil <remarcil@alaska.gov>
+
+
+Controlling VirtualBox from the Command Line
+Using Oracle VM VBoxManage
+by Yuli Vasiliev
+Published June 2014
+https://www.oracle.com/technical-resources/articles/it-infrastructure/admin-manage-vbox-cli.html
+
+Docusign
+http://account.docusign.com
+raymond.marcil@alaska.gov/the usual + C@9
+
+ESS
+Employee ID: 291131
+https://iris-ess.alaska.gov/webapp/PRDESS1X1/ESS
+
+GParted
+A partition editor to graphically manage disk partitions
+Brought to you by: gedakc
+https://sourceforge.net/projects/gparted/
+
+How to Resize Partition on Windows OS
+https://www.msp360.com/resources/blog/how-to-resize-partition/
+
+Information Systems and Services Division (ISSD)
+Alaska Deparment of Transportation and Public Facilities
+DOT Information Systems & Services Division Home
+https://wiki.state.ak.us/pages/viewpage.action?pageId=98107415
+
+[ViewVC] Index of: progdev
+scm.dot.soa.alaska.gov
+root/progdev
+databases/
+docs/
+projects/
+https://scm.dot.soa.alaska.gov/viewvc/progdev/
+
+VMware Workstation FAQs
+https://www.vmware.com/products/player/faqs.html#:~:text=Use%20VMware%20Workstation%20Player%20to,them%20directly%20on%20your%20PC.
+
+Network install from a minimal CD
+https://www.debian.org/CD/netinst/
+
+
+Links
+=====
+Apache Subversion
+"Enterprise-class centralized version control for the masses"
+https://subversion.apache.org/
+
+Asset Repository Information
+Created by Kotyk, Christopher J (DOT), last modified by Guild, Jason A (DOT) about 3 hours ago
+Great page with subversion details.  
+Latest from Jason Guild Thu Aug 6, 2020
+https://wiki.state.ak.us/pages/viewpage.action?spaceKey=DAS&title=Asset+Repository+Information   <===
+
+CDES
+https://scm.dot.soa.alaska.gov/viewvc/progdev/projects/CDES/
+
+DPD_CRASH
+https://scm.dot.soa.alaska.gov/viewvc/progdev/databases/DPD_CRASH/
+
+Docusign
+http://account.docusign.com
+raymond.marcil@alaska.gov/the usual + C@9
+
+EclipseLink
+For starters install the ivy plugin to Eclipse.
+--from Jason Guild, removed from wiki page:
+  https://wiki.state.ak.us/pages/viewpage.action?pageId=163709480
+
+Employee intranet
+https://web.dot.state.ak.us/tne/index.shtml
+
+Guild, Jason
+Created by Guild, Jason A (DOT), 
+last modified on Apr 29, 2020
+DOT ISSD Software Engineering
+https://wiki.state.ak.us/spaces/viewspace.action?key=~jaguild
+
+IRIS HRM Login
+Employee Self Service Portal
+SOA Employee ID: 291131
+https://iris-ess.alaska.gov/webapp/PRDESS1X1/ESS      <=== ESS
+
+Ivy repository of abstracts
+from: Jason Guild - June 2, 2020
+https://scm.dot.soa.alaska.gov/ivy-repo/
+
+Java+Ant Installation and Setup
+https://wiki.state.ak.us/x/HwUeBw
+
+Marcil, Raymond E (DOT)’s Home
+Created by Marcil, Raymond E (DOT), last modified on May 14, 2020
+https://wiki.state.ak.us/pages/viewpage.action?pageId=163709480
+
+progdev
+[ViewVC] Index of: progdev
+scm.dot.soa.alaska.gov
+root/progdev
+databases/
+docs/
+projects/
+https://scm.dot.soa.alaska.gov/viewvc/progdev/
+
+SQL*Plus User's Guide and Reference
+https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqpug/sqlplus-users-guide-and-reference.pdf
+
+Subversion Tutorial: 10 Most Used SVN Commands with Examples
+by SASIKALA on APRIL 25, 2011
+https://www.thegeekstuff.com/2011/04/svn-command-examples/#:~:text=Checkout%20command%20is%20used%20to,%2C%20delete%2C%20or%20add%20contents.
+
+TortoiseSVN Downloads
+https://tortoisesvn.net/downloads.html
+
+ViewVC progdev
+https://scm.dot.soa.alaska.gov/viewvc/progdev/
+
+Windows Subsystem for Linux (WSL)
+Ubuntu wiki
+https://wiki.ubuntu.com/WSL
+
+
+
