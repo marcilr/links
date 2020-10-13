@@ -70,13 +70,14 @@ REM %SVNCMD% co "file:///C:/Users/remarcil/OneDrive - State of Alaska/svn-repos/
 REM
 REM ========================== LINKS ===========================
 REM
-IF EXIST links (
-  ECHO "Updating links..."
-  ECHO "Running: git pull https://github.com/marcilr/links"
-  cd virtualbox
-  git pull https://github.com/marcilr/links
-  cd ..
-) ELSE (
-  ECHO "Cloning links..."
-  git clone "https://github.com/marcilr/links" links
-)
+REM IF EXIST links (
+REM   ECHO "Updating links..."
+REM   ECHO "Running: git pull https://github.com/marcilr/links"
+REM   cd virtualbox
+REM   git pull https://github.com/marcilr/links
+REM   cd ..
+REM ) ELSE (
+REM   ECHO "Cloning links..."
+REM   git clone "https://github.com/marcilr/links" links
+REM )
+git clone "https://github.com/marcilr/links" .
