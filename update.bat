@@ -80,4 +80,6 @@ REM ) ELSE (
 REM   ECHO "Cloning links..."
 REM   git clone "https://github.com/marcilr/links" links
 REM )
-git clone "https://github.com/marcilr/links" .
+
+REM Update current working directory
+git pull
